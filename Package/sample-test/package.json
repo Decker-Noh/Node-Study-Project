@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "ls": "file:../sample-package"
+  }
+}
